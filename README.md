@@ -1,24 +1,14 @@
 # calculadora-en-vue
 
-## Project setup
+## Inslarar dependencias
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Arrancar el servidor para compilar dependencias npm
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+#### Abrir archivo Html
+````
+calculadora-en-vue/public/index.html

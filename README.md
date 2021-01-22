@@ -1,2 +1,2 @@
 # calculadora-en-vue
-Practicando con vue
+Practicando con Vue CLI
